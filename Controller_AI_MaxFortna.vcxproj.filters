@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\Controller_AI_MaxFortna.cpp" />
+    <ClCompile Include="src\Attack.cpp" />
+    <ClCompile Include="src\Counter.cpp" />
+    <ClCompile Include="src\Defend.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Controller_AI_MaxFortna.h" />
+    <ClInclude Include="src\iStrategy.h" />
+    <ClInclude Include="src\Attack.h" />
+    <ClInclude Include="src\Counter.h" />
+    <ClInclude Include="src\Defend.h" />
+  </ItemGroup>
+</Project>
